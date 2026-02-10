@@ -1,0 +1,17 @@
+{
+  "name": "TimePal - Visual Timer for Kids",
+  "short_name": "TimePal",
+  "description": "A calm, distraction-free visual timer app for toddlers ages 2-5",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
