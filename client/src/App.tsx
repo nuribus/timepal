@@ -7,7 +7,7 @@ import Home from "@/pages/Home";
 import NotFound from "@/pages/not-found";
 import ThemeToggle from "@/components/ThemeToggle";
 import WhyTimerModal from "@/components/WhyTimerModal";
-import logoImage from "@assets/time_logo_header_1763495512877.png";
+const logoImage = "/timepal-logo.png";
 import { useEffect, useState } from "react";
 import { initGA } from "./lib/analytics";
 import { useAnalytics } from "./hooks/use-analytics";
